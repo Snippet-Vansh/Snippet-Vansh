@@ -1,34 +1,59 @@
 <h1 align="center">Hi 👋, I'm Vansh Vishwakarma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer from India · Building useful things for the web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snippet-vansh&label=Profile%20views&color=0e75b6&style=flat" alt="snippet-vansh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snippet-vansh" alt="snippet-vansh" /></a> </p>
-
-- 🔭 I’m currently working on [Sapimus](https://github.com/Snippet-Vansh/SapiMus)
-
-- 🌱 I’m currently learning **full stack development**
-
-- 👯 I’m looking to collaborate on [DermaCare](https://github.com/Snippet-Vansh/DermaCare)
-
-- 🤝 I’m looking for help with [Sapimus](https://sapimus-alpha.vercel.app/)
-
-- 📫 How to reach me **vanshvishwakarma1514@gmail.com**
-
-- ⚡ Fun fact **I am gym lover**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vansh vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansh vishwakarma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh vishwakarma" height="30" width="40" /></a>
-<a href="https://instagram.com/_vanss.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vanss.h" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Snippet-Vansh"><img src="https://komarev.com/ghpvc/?username=Snippet-Vansh&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Snippet-Vansh?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSnippet-Vansh&query=%24.public_repos&label=public%20repos&style=for-the-badge&color=2563eb" alt="Public repositories" /></a>
+  <img src="https://img.shields.io/github/stars/Snippet-Vansh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=stars%20earned&color=f59e0b" alt="Stars earned" />
+  <a href="https://github.com/Snippet-Vansh"><img src="https://img.shields.io/badge/GitHub-Snippet--Vansh-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snippet-vansh&show_icons=true&locale=en&layout=compact" alt="snippet-vansh" /></p>
+## 👨‍💻 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snippet-vansh&show_icons=true&locale=en" alt="snippet-vansh" /></p>
+- 🌱 Currently learning **full-stack development**
+- 🔭 Building **[SapiMus](https://github.com/Snippet-Vansh/SapiMus)**
+- 🤝 Open to collaborating on **[DermaCare](https://github.com/Snippet-Vansh/DermaCare)**
+- 💬 Interested in frontend development, product building, and learning by making
+- 🏋️ Fun fact: I’m a gym lover
+- 📫 Reach me at **[vanshvishwakarma1514@gmail.com](mailto:vanshvishwakarma1514@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snippet-vansh&" alt="snippet-vansh" /></p>
+## 🚀 Featured projects
+
+| Project | What it is | Link |
+|---|---|---|
+| **SapiMus** | A project I’m currently building | [View repository](https://github.com/Snippet-Vansh/SapiMus) · [Live demo](https://sapimus-alpha.vercel.app/) |
+| **DermaCare** | A project I’m open to collaborating on | [View repository](https://github.com/Snippet-Vansh/DermaCare) |
+
+## 🛠️ Tools & technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,cpp,css,dart,express,firebase,flutter,git,java,js,mongodb,mysql,nextjs,nodejs,postgres,py,react,reactnative,tailwind,ts&perline=10" alt="Technologies: AWS, C++, CSS, Dart, Express, Firebase, Flutter, Git, Java, JavaScript, MongoDB, MySQL, Next.js, Node.js, PostgreSQL, Python, React, React Native, Tailwind CSS, TypeScript" />
+</p>
+
+## 📊 GitHub analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Snippet-Vansh&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats, including commits and stars" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snippet-Vansh&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Snippet-Vansh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snippet-Vansh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.instagram.com/_vanss.h/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:vanshvishwakarma1514@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repositories and say hello!</i></p>
+
