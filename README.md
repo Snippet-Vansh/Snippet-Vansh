@@ -48,6 +48,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snippet-Vansh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snippet-Vansh/Snippet-Vansh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snippet-Vansh/Snippet-Vansh/output/github-snake.svg" />
+    <img alt="Animated snake following my GitHub contribution grid" src="https://raw.githubusercontent.com/Snippet-Vansh/Snippet-Vansh/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 🤝 Connect with me
 
 <p align="center">
@@ -56,4 +64,5 @@
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories and say hello!</i></p>
+
 
